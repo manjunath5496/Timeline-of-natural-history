@@ -315,7 +315,6 @@
 <li>c.24 Ma - Earliest&nbsp;<a title="Pinniped" href="https://en.wikipedia.org/wiki/Pinniped">pinnipeds</a>&nbsp;(seals).</li>
 </ul>
 <h4><span id="Neogene_Period" class="mw-headline">Neogene Period</span></h4>
-<div id="Container" class="toccolours searchaux">&nbsp;</div>
 <ul>
 <li>c.23.03 &plusmn;&nbsp;0.05 Ma &ndash;&nbsp;<a title="Neogene" href="https://en.wikipedia.org/wiki/Neogene">Neogene</a>&nbsp;Period and&nbsp;<a title="Miocene" href="https://en.wikipedia.org/wiki/Miocene">Miocene</a>&nbsp;epoch begin</li>
 <li>c.22 Ma - First&nbsp;<a title="Hyena" href="https://en.wikipedia.org/wiki/Hyena">hyenas</a>.</li>
